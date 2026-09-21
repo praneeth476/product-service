@@ -180,5 +180,5 @@ PUT    /api/products/{id}
 DELETE /api/products/{id}
 
 GitHub Repository:
-<YOUR_GITHUB_REPOSITORY_URL>
+https://github.com/praneeth476/product-service
 ```
